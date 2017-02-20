@@ -18,8 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background: #e5e5e5;
+	font-family: 'Roboto', sans-serif;
+	font-size:18px
   color: $darkGray;
 }
 
@@ -31,8 +32,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: 'Hammersmith One', sans-serif;
+	color : #4c4c4c;
   font-weight: bold;
 
   line-height: 1.7;
