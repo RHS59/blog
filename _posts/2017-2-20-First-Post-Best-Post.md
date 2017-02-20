@@ -1,7 +1,12 @@
 ---
 layout: post
-title: I'm up and running!
+title: First Post is the best post!
 ---
 
-This is my very first blog post on my new blog powered by Github and Jekyll!
+# February 20th, 2017
 
+[logo]: https://i.imgur.com/aOt07xX.png "AKB Logo"
+
+## The first post is the best post
+
+I'm currently working on a website for a video game enthusiast group. I've designed their logo and you can preview the website build [here](https://rhs59.github.io/akb-website/)
